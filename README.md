@@ -5,3 +5,6 @@ growth. If the challenges are not properly addressed, it can hinder substantial 
 by emphasizing the importance of effective project management, resource allocation, process optimization, and the implementation of Agile project management methodologies. It 
 advocates for the use of automation tools to streamline workflows and emphasizes the need for continuous process evealuation to ensure scalability and productivity. For 
 individuals involved in mangaging or scaling a software development team, these notions are essential to internalize and act upon. 
+
+### Linkun Wan's Comment:
+From the article, I agree that there are some significant challenges with growing large software companies with issues like scaling operations and talen acquisition.
